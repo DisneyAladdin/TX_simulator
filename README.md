@@ -1,6 +1,17 @@
 # TX_simulator
 TX simulator to know how often Tsukuba Express run.
 
+### Black
+Nomal train
+
+### Red
+Rapid train
+
+### Blue
+Section fast train
+
+ 
+
 # Licence
 University of Tsukuba.
 
