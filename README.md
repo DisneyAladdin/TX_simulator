@@ -18,6 +18,8 @@ As a task of lecture.
 
 
 # How to use
+Download all files
+
 Install "Processing" here https://processing.org/download/
 
 Open "Processing" and open the program below
