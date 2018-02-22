@@ -11,13 +11,6 @@ Rapid train
 Section fast train
 
 
-# Licence
-University of Tsukuba.
-
-As a task of lecture.
- 
-Release on February 22th, 2018
-
 # How to use
 Download all files
 
