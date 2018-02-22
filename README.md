@@ -1,14 +1,11 @@
 # TX_simulator
 TX simulator to know how often Tsukuba Express run.
 
-### Black
-Nomal train
+<font color="Black">Black</font> : Nomal train <br>
 
-### Red
-Rapid train
+<font color="Red">Red</font> : Rapid train<br>
 
-### Blue
-Section fast train
+<font color="Blue">Blue</font> : Section fast train<br>
 
 
 # How to use
