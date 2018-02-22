@@ -10,13 +10,17 @@ Rapid train
 ### Blue
 Section fast train
 
- 
 
 # Licence
 University of Tsukuba.
 
 As a task of lecture.
 
+
+# How to use
+Install "Processing" here https://processing.org/download/
+
+Open "Processing" and open the program below
 
 # Program
 https://github.com/shutokawabata0723/TX_simulator/blob/master/TXSimulator/TXSimulator_07/TXSimulator_07.pde
