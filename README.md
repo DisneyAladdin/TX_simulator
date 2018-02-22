@@ -3,7 +3,7 @@ TX simulator to know how often Tsukuba Express run.
 
 <font color="black">Black</font> : Nomal train <br>
 
-<font color="red">Red</font> : Rapid train<br>
+<span style="color: red; ">Red</span> : Rapid train<br>
 
 <font color="blue">Blue</font> : Section fast train<br>
 
