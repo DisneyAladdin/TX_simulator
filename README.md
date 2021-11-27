@@ -13,11 +13,11 @@ Blue : Section fast train<br>
 # How to use
 Download all files
 
-Install "Processing" here https://processing.org/download/
+Install Processing, https://processing.org/download/
 
-Open "Processing" and open the program below
+Run code below
 
-# Program
+# Source code
 https://github.com/shutokawabata0723/TX_simulator/blob/master/TXSimulator/TXSimulator_07/TXSimulator_07.pde
 
 # Result
